@@ -1,9 +1,9 @@
 ## Zhirang Guo
 ### Hi there 👋
 
-I am a back-end developer trying to learn more. Now I am actively seeking new grad software engineer opportunities.
+Back-end developer 👨🏽‍💻. Actively seeking new grad software engineer opportunities.
 
-You can call me John. 
+[![Linkedin Badge](https://img.shields.io/badge/-imguozr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imguozr/)](https://www.linkedin.com/in/imguozr/)
+[![Gmail Badge](https://img.shields.io/badge/-imguozr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imguozr@gmail.com)](mailto:imguozr@gmail.com)
 
-- 🔭 Currently interning for Tencent as a software engineer.
-- 📫 LinkedIn: [imguozr](https://www.linkedin.com/in/imguozr/)
+![Github Status](https://github-readme-stats.vercel.app/api?username=imguozr&show_icons=true&theme=radical)
