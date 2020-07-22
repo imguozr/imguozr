@@ -1,5 +1,4 @@
 ## Zhirang Guo
-### Hi there 👋
 
 Back-end developer 👨🏽‍💻. Actively seeking new grad software engineer opportunities.
 
